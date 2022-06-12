@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/java/server/commands/HelpCommand.java=UTF-8
+encoding//src/main/java/server/commands/serverExitCommand.java=UTF-8
+encoding//src/main/java/server/utility/CommandManager.java=UTF-8
+encoding//src/main/java/server/utility/FileManager.java=UTF-8
+encoding//src/main/java/server/utility/responseOutputer.java=UTF-8
